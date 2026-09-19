@@ -4,7 +4,7 @@
   "messageProjects": "للأسف وضع المشاريع لا يعمل على الإصدار الحالي. قم بتحميل أحدث إصدار من الرابط.",
   "versions": {
     "1.58": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
