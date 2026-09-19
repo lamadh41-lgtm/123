@@ -1,0 +1,13 @@
+{
+  "updateUrl": "https://github.com/YOUR_USER/YOUR_REPO/releases",
+  "messagePlay": "للأسف وضع اللعب لا يعمل على هذا الإصدار. حمّل أحدث إصدار من الرابط.",
+  "messageProjects": "للأسف وضع المشاريع لا يعمل على هذا الإصدار. حمّل أحدث إصدار من الرابط.",
+  "versions": {
+    "1.58": {
+      "enabled": true
+    },
+    "1.30": {
+      "enabled": false
+    }
+  }
+}
