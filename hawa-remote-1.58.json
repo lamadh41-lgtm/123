@@ -1,6 +1,4 @@
 {
-  "name": "Hawa Engine",
-  "engineVersion": "1.58",
   "updateUrl": "https://github.com/YOUR_USER/YOUR_REPO/releases",
   "messagePlay": "للأسف وضع اللعب لا يعمل على الإصدار الحالي. قم بتحميل أحدث إصدار من الرابط.",
   "messageProjects": "للأسف وضع المشاريع لا يعمل على الإصدار الحالي. قم بتحميل أحدث إصدار من الرابط.",
